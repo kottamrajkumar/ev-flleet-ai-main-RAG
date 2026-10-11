@@ -1,0 +1,15 @@
+langchain
+langchain-classic
+langgraph
+streamlit
+chromadb
+langchain-google-genai
+langchain-community
+mysql-connector-python
+flashrank
+python-dotenv
+pypdf
+sqlalchemy
+langchain-text-splitters
+ragas
+datasets
